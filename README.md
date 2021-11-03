@@ -15,7 +15,7 @@ Note the two pipelines are almost identical except that
   - there is an extra extraction method used in `withExtractionFromHeader.cppipe`;
   - the `NamesAndTypes` modules are slightly different because metadata available are not the same. 
 
-
+Note also that since absolute paths are required, the `image_list_nd2.txt` needs to be modified to match the new location.
 
 
 
