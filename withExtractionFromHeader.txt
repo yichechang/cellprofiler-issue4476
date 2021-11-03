@@ -1,0 +1,1 @@
+file:/Users/yi-che/repository/cellprofiler-headless-test/data/multichannel.nd2
